@@ -1,1 +1,7 @@
-first git text test file
+multiple lines
+multiple lines
+multiple lines
+multiple lines
+multiple lines
+multiple lines
+multiple lines
